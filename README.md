@@ -1,0 +1,2 @@
+# Ethereum
+learning Ethereum notes
