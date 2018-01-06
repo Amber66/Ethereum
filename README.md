@@ -1,2 +1,1 @@
-# Ethereum
-learning Ethereum notes
+# Contract
