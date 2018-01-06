@@ -126,4 +126,4 @@ contract AmberToken is Ownable, StandardToken {
         balances[owner] = 0;
         Ownable.transferOwnership(_newOwner);
     }
-}
+} 
